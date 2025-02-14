@@ -4,6 +4,7 @@ Welcome to the **Financial Interest Compiler Workshop**! This workshop is design
 
 ## Table of Contents
 - [Introduction](#introduction)
+- [Poster](#poster)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -12,6 +13,9 @@ Welcome to the **Financial Interest Compiler Workshop**! This workshop is design
 
 ## Introduction
 The **Financial Interest Compiler** is a specialized tool for compiling and analyzing financial data, particularly focusing on simple interest calculations, balance updates, and maturity date computations. This workshop will guide you through the process of setting up, using, and contributing to the Financial Interest Compiler project.
+
+## Poster
+![Imagen de WhatsApp 2025-02-14 a las 17 34 29_fbbd4cb2](https://github.com/user-attachments/assets/f1bbaa2e-42d2-4ace-bef7-558f29376556)
 
 ## Prerequisites
 Before you begin, ensure you have the following:
