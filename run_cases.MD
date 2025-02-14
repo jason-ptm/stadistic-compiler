@@ -1,9 +1,9 @@
 
-# Stadistic compiler
+# Financial and Simple Interest Calculations
 
 ## Run cases
 
-### Cálculo Básico de Interés Simple 
+### Basic Simple Interest Calculation
 
 Input
 ```bash
@@ -15,7 +15,7 @@ Total amount after interest: 1100.0
 ```
 ---
 
-### Definición de Tasa sin Cálculo de Interés
+### Definition of Rate without Interest Calculation
 
 Input
 ```bash
@@ -23,11 +23,11 @@ DEFINE RATE 3
 ```
 Log
 
-No salida esperada para el cálculo. Verifica que no ocurran errores sintácticos o semánticos.
+NOT expected output for the calculation. Check that no syntactic or semantic errors occur.
 
 ---
 
-### Cálculo de Interés con Pago y Balance
+### Interest Calculation with Payment and Balance
 
 Input
 ```bash
@@ -44,7 +44,7 @@ Balance after payment: 1360.0
 
 ---
 
-### Uso Extensivo de Funcionalidades
+### Extensive Use of Features
 
 Input
 ```bash
@@ -62,7 +62,7 @@ Maturity date after period: 31/01/2024
 
 ---
 
-### Errores semánticos
+### Semantic errors
 
 Input
 ```bash
@@ -85,7 +85,7 @@ Compilation error: Semantic error at token X: Rate must be between 0 and 100
 
 ---
 
-### Manipulación de Fechas
+### Date Manipulation
 
 Input
 ```bash
